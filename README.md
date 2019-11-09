@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://avatars1.githubusercontent.com/u/57557312?s=400&u=290f6e38792d3396f21c9d766f2ce001a45ed967&v=4"
-        height="130">
+        height="200">
 </p>
 <p align="center">
     <a href="https://questionandanalysis.com" alt="website">
